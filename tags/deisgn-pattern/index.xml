@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deisgn pattern on Erlich Bachman</title>
-    <link>https://shenoybr.github.io/hugo-goa-demo/tags/deisgn-pattern/</link>
+    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/deisgn-pattern/</link>
     <description>Recent content in deisgn pattern on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 11 Mar 2018 07:16:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/deisgn-pattern/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/deisgn-pattern/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>8 System Design Principles I learned After Doing It Wrong More than 50 Times!</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/2018/03/11/8-system-design-principles-i-learned-after-doing-it-wrong-more-than-50-times/</link>
+      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2018/03/11/8-system-design-principles-i-learned-after-doing-it-wrong-more-than-50-times/</link>
       <pubDate>Sun, 11 Mar 2018 07:16:00 +0000</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/2018/03/11/8-system-design-principles-i-learned-after-doing-it-wrong-more-than-50-times/</guid>
+      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2018/03/11/8-system-design-principles-i-learned-after-doing-it-wrong-more-than-50-times/</guid>
       <description>At Squad, we strive to build awesome products to solve customer(internal and external) needs. As a product engineer, paramount part of your job is to design and build products. Dig deep into the root cause of the problems, design solutions and implement them as the end product.
 Over the course of my journey so far, here are the 8 system and product design principles that I&amp;rsquo;ve learned from other awesome people at Squad, from feedback and simply doing it not right enough multiple times.</description>
     </item>

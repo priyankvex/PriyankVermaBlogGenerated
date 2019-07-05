@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tesseract on Erlich Bachman</title>
-    <link>https://shenoybr.github.io/hugo-goa-demo/tags/tesseract/</link>
+    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/tesseract/</link>
     <description>Recent content in Tesseract on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 02 Sep 2015 11:01:58 +0000</lastBuildDate>
     
-	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/tesseract/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/tesseract/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Making an OCR app for Android using Tesseract.</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/2015/09/02/making-an-ocr-app-for-android-using-tesseract/</link>
+      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2015/09/02/making-an-ocr-app-for-android-using-tesseract/</link>
       <pubDate>Wed, 02 Sep 2015 11:01:58 +0000</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/2015/09/02/making-an-ocr-app-for-android-using-tesseract/</guid>
+      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2015/09/02/making-an-ocr-app-for-android-using-tesseract/</guid>
       <description>Star on GitHub
 Recently I was playing with OCR library by google called as &amp;ldquo;Tesseract&amp;rdquo; (cool name for a library!).
 [caption id=&amp;ldquo;attachment_153&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;234&amp;rdquo;] App in action.[/caption]
@@ -27,10 +27,10 @@ If you want an even easier way to get started with OCR on Android you can try th
     
     <item>
       <title>How to build Tesseract OCR library for Android Studio?</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/2015/08/30/how-to-build-tesseract-ocr-library-for-android-studio/</link>
+      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2015/08/30/how-to-build-tesseract-ocr-library-for-android-studio/</link>
       <pubDate>Sun, 30 Aug 2015 10:07:28 +0000</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/2015/08/30/how-to-build-tesseract-ocr-library-for-android-studio/</guid>
+      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2015/08/30/how-to-build-tesseract-ocr-library-for-android-studio/</guid>
       <description>Star On GitHub
 If you ever tried to create an OCR app for Android you must have stumbled upon the OCR library by Google Tesseract. And then the problems began.
 To use the library in your project you first need to build it. But building the library to be compatible with gradle, which is the new build system for Android projects is little not so easily stated anywhere in the library manual.</description>

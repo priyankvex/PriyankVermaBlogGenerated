@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tp on Erlich Bachman</title>
-    <link>https://shenoybr.github.io/hugo-goa-demo/tags/tp/</link>
+    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/tp/</link>
     <description>Recent content in tp on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 19 Nov 2017 15:50:50 +0000</lastBuildDate>
     
-	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/tp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/tp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deploying a nginx application using Kubernetes for Self-Healing and Scaling</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/2017/11/19/deploying-a-nginx-application-using-kubernetes-for-self-healing-and-scaling/</link>
+      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2017/11/19/deploying-a-nginx-application-using-kubernetes-for-self-healing-and-scaling/</link>
       <pubDate>Sun, 19 Nov 2017 15:50:50 +0000</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/2017/11/19/deploying-a-nginx-application-using-kubernetes-for-self-healing-and-scaling/</guid>
+      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2017/11/19/deploying-a-nginx-application-using-kubernetes-for-self-healing-and-scaling/</guid>
       <description>Kubernetes is an open source system for automating deployment, scaling and management of containerized applications. A more technical term for it is, container orchestrator which is used to manage large fleets of containers.
 Minikube is an all-in-one single node installation for trying out kubernetes on local machines. And the following post covers deploying a nginx application container using kubernetes in minikube.
 If you don&amp;rsquo;t have, then this link has it all to install minikube and kubectl (command line tool to access minikube) : Download and install minikube and kubectl</description>

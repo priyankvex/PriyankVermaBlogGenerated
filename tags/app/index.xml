@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>app on Erlich Bachman</title>
-    <link>https://shenoybr.github.io/hugo-goa-demo/tags/app/</link>
+    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/app/</link>
     <description>Recent content in app on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 19 Nov 2017 15:50:50 +0000</lastBuildDate>
     
-	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deploying a nginx application using Kubernetes for Self-Healing and Scaling</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/2017/11/19/deploying-a-nginx-application-using-kubernetes-for-self-healing-and-scaling/</link>
+      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2017/11/19/deploying-a-nginx-application-using-kubernetes-for-self-healing-and-scaling/</link>
       <pubDate>Sun, 19 Nov 2017 15:50:50 +0000</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/2017/11/19/deploying-a-nginx-application-using-kubernetes-for-self-healing-and-scaling/</guid>
+      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2017/11/19/deploying-a-nginx-application-using-kubernetes-for-self-healing-and-scaling/</guid>
       <description>Kubernetes is an open source system for automating deployment, scaling and management of containerized applications. A more technical term for it is, container orchestrator which is used to manage large fleets of containers.
 Minikube is an all-in-one single node installation for trying out kubernetes on local machines. And the following post covers deploying a nginx application container using kubernetes in minikube.
 If you don&amp;rsquo;t have, then this link has it all to install minikube and kubectl (command line tool to access minikube) : Download and install minikube and kubectl</description>
@@ -24,10 +24,10 @@ If you don&amp;rsquo;t have, then this link has it all to install minikube and k
     
     <item>
       <title>What to do? An android app made to guide people what to do in various scenarios.</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/2014/06/27/what-to-do-an-android-app-made-to-guide-people-what-to-do-in-various-scenarios/</link>
+      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2014/06/27/what-to-do-an-android-app-made-to-guide-people-what-to-do-in-various-scenarios/</link>
       <pubDate>Fri, 27 Jun 2014 08:02:36 +0000</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/2014/06/27/what-to-do-an-android-app-made-to-guide-people-what-to-do-in-various-scenarios/</guid>
+      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2014/06/27/what-to-do-an-android-app-made-to-guide-people-what-to-do-in-various-scenarios/</guid>
       <description>Click Here to download  _NOTE : _This app has been signed with default debug key
 We all face various scenarios in our life . Some are life threatening while some are just awkward moments . In each case it is kinda vital to do the write things at the write time . This app has been made to help you do the same with the help researched content and quick links provided within the app.</description>
     </item>

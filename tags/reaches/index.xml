@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reaches on Erlich Bachman</title>
-    <link>https://shenoybr.github.io/hugo-goa-demo/tags/reaches/</link>
+    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/reaches/</link>
     <description>Recent content in reaches on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 29 Apr 2018 17:01:20 +0000</lastBuildDate>
     
-	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/reaches/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/reaches/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Devops and The Principle Of Flow</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/2018/04/29/devops-and-the-principle-of-lean/</link>
+      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2018/04/29/devops-and-the-principle-of-lean/</link>
       <pubDate>Sun, 29 Apr 2018 17:01:20 +0000</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/2018/04/29/devops-and-the-principle-of-lean/</guid>
+      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2018/04/29/devops-and-the-principle-of-lean/</guid>
       <description>In the technology value stream, work typically flows from Development to Operations, steps consisting of functional areas between our business and our customers.
 As stated in the lean principles developed by Toyota, we should optimize to get a single-piece fast and smooth flow for our releases.
 We increase flow by:

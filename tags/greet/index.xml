@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>greet on Erlich Bachman</title>
-    <link>https://shenoybr.github.io/hugo-goa-demo/tags/greet/</link>
+    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/greet/</link>
     <description>Recent content in greet on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 05 Aug 2018 18:41:18 +0000</lastBuildDate>
     
-	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/greet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/greet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acceptance Tests: The Best Medium of Communication Between Stakeholders (if done right)</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/2018/08/06/acceptance-tests-the-best-medium-of-communication-between-stakeholders-if-done-right/</link>
+      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2018/08/06/acceptance-tests-the-best-medium-of-communication-between-stakeholders-if-done-right/</link>
       <pubDate>Sun, 05 Aug 2018 18:41:18 +0000</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/2018/08/06/acceptance-tests-the-best-medium-of-communication-between-stakeholders-if-done-right/</guid>
+      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2018/08/06/acceptance-tests-the-best-medium-of-communication-between-stakeholders-if-done-right/</guid>
       <description>It&amp;rsquo;s a nice pleasant morning, and you have just entered the office. You greet your friends and grab a cup of coffee. You check your email and there is a new story assigned to you.
 &amp;ldquo;As a customer, I get my usage logs backed up&amp;rdquo;
 This is where is fun begins.
