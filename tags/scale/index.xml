@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scale on Priyank Verma</title>
-    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/scale/</link>
-    <description>Recent content in scale on Priyank Verma</description>
+    <title>scale on Erlich Bachman</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/tags/scale/</link>
+    <description>Recent content in scale on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <lastBuildDate>Thu, 07 Mar 2019 15:54:40 +0000</lastBuildDate>
     
-	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/scale/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/scale/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Architecting for Scale by Lee Atchison: Reading Experience</title>
-      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2019/03/07/architecting-for-scale-by-lee-atchison-reading-experience/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/2019/03/07/architecting-for-scale-by-lee-atchison-reading-experience/</link>
       <pubDate>Thu, 07 Mar 2019 15:54:40 +0000</pubDate>
       
-      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2019/03/07/architecting-for-scale-by-lee-atchison-reading-experience/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/2019/03/07/architecting-for-scale-by-lee-atchison-reading-experience/</guid>
       <description>I recently read the book Architecting for Scale by Lee Atchison. The book contains a high-level overview of the major concepts that revolve around the topic of building highly-available and scalable apps.
 I felt the book to be more suited as a light read for people already familiar with these concepts rather than being an informative book for the new readers.
 The book divided into 5 parts mainly:

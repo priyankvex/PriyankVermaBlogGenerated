@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>btree on Priyank Verma</title>
-    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/btree/</link>
-    <description>Recent content in btree on Priyank Verma</description>
+    <title>btree on Erlich Bachman</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/tags/btree/</link>
+    <description>Recent content in btree on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <lastBuildDate>Sun, 19 May 2019 08:46:06 +0000</lastBuildDate>
     
-	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/btree/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/btree/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Tale on Concatenated Indexes: Master Roshi and Goku&#39;s fireside chat</title>
-      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2019/05/19/a-tale-on-concatenated-indexes-master-roshi-and-gokus-fireside-chat/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/2019/05/19/a-tale-on-concatenated-indexes-master-roshi-and-gokus-fireside-chat/</link>
       <pubDate>Sun, 19 May 2019 08:46:06 +0000</pubDate>
       
-      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2019/05/19/a-tale-on-concatenated-indexes-master-roshi-and-gokus-fireside-chat/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/2019/05/19/a-tale-on-concatenated-indexes-master-roshi-and-gokus-fireside-chat/</guid>
       <description>Indexes make our queries run as fast as a cheetah!
 Right Practice. Right Results
 This post is part of newsletter that I run &amp;ldquo;Scamming the Coding Interview&amp;rdquo;, which is geared towards continuous practice on concepts to ace the engineering interviews.

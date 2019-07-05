@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LFS101x on Priyank Verma</title>
-    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/lfs101x/</link>
-    <description>Recent content in LFS101x on Priyank Verma</description>
+    <title>LFS101x on Erlich Bachman</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/tags/lfs101x/</link>
+    <description>Recent content in LFS101x on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <lastBuildDate>Sat, 16 Aug 2014 10:13:09 +0000</lastBuildDate>
     
-	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/lfs101x/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/lfs101x/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LFS101x : Introduction to Linux on edX</title>
-      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2014/08/16/lfs101x-introduction-to-linux-on-edx/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/2014/08/16/lfs101x-introduction-to-linux-on-edx/</link>
       <pubDate>Sat, 16 Aug 2014 10:13:09 +0000</pubDate>
       
-      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2014/08/16/lfs101x-introduction-to-linux-on-edx/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/2014/08/16/lfs101x-introduction-to-linux-on-edx/</guid>
       <description>It was this summer when I saw this course LFS101x being offered on edX by The Linux Foundation. Both the terms Linux and edX excited me . So I decided to take this course.
 My experience with prior online courses I have taken few online courses on edX and coursera . In both the cases I loved the excitement and knowledge they provide. They were also fun learning and thus worked well for me.</description>
     </item>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>easy OCR library on Priyank Verma</title>
-    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/easy-ocr-library/</link>
-    <description>Recent content in easy OCR library on Priyank Verma</description>
+    <title>easy OCR library on Erlich Bachman</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/tags/easy-ocr-library/</link>
+    <description>Recent content in easy OCR library on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <lastBuildDate>Wed, 02 Sep 2015 11:01:58 +0000</lastBuildDate>
     
-	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/easy-ocr-library/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/easy-ocr-library/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Making an OCR app for Android using Tesseract.</title>
-      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2015/09/02/making-an-ocr-app-for-android-using-tesseract/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/2015/09/02/making-an-ocr-app-for-android-using-tesseract/</link>
       <pubDate>Wed, 02 Sep 2015 11:01:58 +0000</pubDate>
       
-      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2015/09/02/making-an-ocr-app-for-android-using-tesseract/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/2015/09/02/making-an-ocr-app-for-android-using-tesseract/</guid>
       <description>Star on GitHub
 Recently I was playing with OCR library by google called as &amp;ldquo;Tesseract&amp;rdquo; (cool name for a library!).
 [caption id=&amp;ldquo;attachment_153&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;234&amp;rdquo;] App in action.[/caption]

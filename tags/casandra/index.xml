@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>casandra on Priyank Verma</title>
-    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/casandra/</link>
-    <description>Recent content in casandra on Priyank Verma</description>
+    <title>casandra on Erlich Bachman</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/tags/casandra/</link>
+    <description>Recent content in casandra on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <lastBuildDate>Sun, 28 Apr 2019 10:40:27 +0000</lastBuildDate>
     
-	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/casandra/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/casandra/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to LSM Trees: May the logs be with you</title>
-      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2019/04/28/introduction-to-lsm-trees-may-the-logs-be-with-you/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/2019/04/28/introduction-to-lsm-trees-may-the-logs-be-with-you/</link>
       <pubDate>Sun, 28 Apr 2019 10:40:27 +0000</pubDate>
       
-      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2019/04/28/introduction-to-lsm-trees-may-the-logs-be-with-you/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/2019/04/28/introduction-to-lsm-trees-may-the-logs-be-with-you/</guid>
       <description>LSM Trees overview
   This post is a part of a newsletter that I run: “Scamming The Coding Interview“, which is geared towards helping people ACE their coding interviews. We send a coding question on weekdays along with a system design article like this one on weekends. Do subscribe If you find this article valuable.
 Introduction What will be the simplest implementation of a database that we can think of?</description>

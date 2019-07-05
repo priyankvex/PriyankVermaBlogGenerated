@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>XML on Priyank Verma</title>
-    <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/xml/</link>
-    <description>Recent content in XML on Priyank Verma</description>
+    <title>XML on Erlich Bachman</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/tags/xml/</link>
+    <description>Recent content in XML on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <lastBuildDate>Mon, 28 Dec 2015 14:56:00 +0000</lastBuildDate>
     
-	<atom:link href="https://priyankvex.github.io/PriyankVermaBlogGenerated/tags/xml/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/xml/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Practice Shapes : Android App To Learn Shapes</title>
-      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2015/12/28/practice-shapes-android-app-to-learn-shapes/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/2015/12/28/practice-shapes-android-app-to-learn-shapes/</link>
       <pubDate>Mon, 28 Dec 2015 14:56:00 +0000</pubDate>
       
-      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2015/12/28/practice-shapes-android-app-to-learn-shapes/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/2015/12/28/practice-shapes-android-app-to-learn-shapes/</guid>
       <description>Only way to learn something is to learn it by yourself. Recently I have been playing with Canvas in android and it has been fun! :D
 As they say knowledge is knowing tomato is a fruit. Wisdom is not putting it in vegetable basket. And best way to persist new gained &amp;ldquo;wisdom&amp;rdquo; is to put it in use.
 Practice Shapes is a fun app both for kids and grown-up kids (Yes.</description>
@@ -24,10 +24,10 @@ Practice Shapes is a fun app both for kids and grown-up kids (Yes.</description>
     
     <item>
       <title>Android Application for a basic Calculator.</title>
-      <link>https://priyankvex.github.io/PriyankVermaBlogGenerated/2014/06/04/android-application-for-a-basic-calculator/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/2014/06/04/android-application-for-a-basic-calculator/</link>
       <pubDate>Wed, 04 Jun 2014 19:35:10 +0000</pubDate>
       
-      <guid>https://priyankvex.github.io/PriyankVermaBlogGenerated/2014/06/04/android-application-for-a-basic-calculator/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/2014/06/04/android-application-for-a-basic-calculator/</guid>
       <description>Hi there,
 This time would like to share my new project &amp;lsquo; A basic calculator built for the android platform.&amp;rsquo;
 Creating android apps always seemed cool to me . Able to start learning to create one is even cooler.
